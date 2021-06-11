@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vzNCPBcRdTPagY79YSjxvgypTeuN4PU1s7vWqBjBwDH/iiecOSWEIu07awSI3nnAVKPwjkug4rIxi/GDm2Z6/Q==",
+  "dgSpecHash": "96J6MHBkdDKYizm2B93F0a+9Okd5b0wU5io9f9zDFxRsR2qGXtbr6pc3OvtmBfQxQ/np6yPIlxOYdg3+933+Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\UcGeorge\\Chat-app-template\\Template\\Template.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\UcGeorge\\Chat-app-template\\Template\\ChatAppTemplate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

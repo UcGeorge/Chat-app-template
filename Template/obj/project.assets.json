@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\UcGeorge\\Chat-app-template\\Template\\Template.csproj",
-      "projectName": "Template",
-      "projectPath": "C:\\Users\\USER\\Source\\Repos\\UcGeorge\\Chat-app-template\\Template\\Template.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\UcGeorge\\Chat-app-template\\Template\\ChatAppTemplate.csproj",
+      "projectName": "ChatAppTemplate",
+      "projectPath": "C:\\Users\\USER\\Source\\Repos\\UcGeorge\\Chat-app-template\\Template\\ChatAppTemplate.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\USER\\Source\\Repos\\UcGeorge\\Chat-app-template\\Template\\obj\\",
       "projectStyle": "PackageReference",
